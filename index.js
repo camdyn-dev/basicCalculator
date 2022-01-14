@@ -1,11 +1,8 @@
 //trying to make the code for a web calculator
 
 
-//works pretty well, need to work on a few things tho
-//1: make sure division by zero doesn't fuck the whole thing
-//2: add an option where, if the next button pressed is not another operator, it starts a new equation (probably an //if statement inside the nums loop)
-//3: make sure the eval is secure with regex or some shit i dunno
-//4: CSS B R U H
+//works pretty well
+
 const nums = document.querySelectorAll(".num")
 const operators = document.querySelectorAll(".operator")
 const evaluate = document.querySelector(".evaluate")
