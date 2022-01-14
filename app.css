@@ -1,0 +1,24 @@
+#display{
+    min-height: 4vh;
+}
+
+.num{
+    padding: 3%;
+}
+
+.operator{
+    padding: 3%;
+}
+
+.removeOne{
+    padding:3%;
+}
+
+.removeAll{
+    padding: 3%;
+}
+
+#previousVal{
+    font-size: 0.6rem;
+    text-align: end;
+}
